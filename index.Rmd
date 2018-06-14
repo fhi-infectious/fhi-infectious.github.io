@@ -1,6 +1,4 @@
 ---
-title: "Infectious Disease Epidemiology and Modelling"
-author: "Richard White"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -12,17 +10,18 @@ editor_options:
 # About us
 
 Avdeling for infejskonsepidemiologi og modellering, Folkehelseinstituttet
+
 Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute of Public Health
 
 # Courses
 
 ## Which statistical method should I use?
 
-[which_stats_method/index.html](http://fhi-infectious.github.io/which_stats_method/)
+[http://fhi-infectious.github.io/which_stats_method/](which_stats_method/index.html)
 
 ## Longitudinal analyses
 
-[which_stats_method//index.html](https://fhi-infectious.github.io/longitudinal_analysis/)
+[https://fhi-infectious.github.io/longitudinal_analysis/](which_stats_method//index.html)
 
 ## A series of short R modules
 
@@ -30,6 +29,6 @@ Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute
 f <- list.files("/git/r","[0-9][0-9][_0-9a-zA-Z]*.Rmd")
 h <- stringr::str_replace(f,"Rmd$","html")
 for(i in 1:length(h)){
-  cat(sprintf("%s. [r/%s](%s)\n\n",i,h[i],h[i]))
+  cat(sprintf("%s. [%s](r/%s)\n\n",i,h[i],h[i]))
 }
 ```
