@@ -13,17 +13,90 @@ Avdeling for infejskonsepidemiologi og modellering, Folkehelseinstituttet
 
 Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute of Public Health
 
-# Courses
+# Upcoming Courses
 
-## Which statistical method should I use?
+## Every Friday 1130am-1230pm
+
+A series of short R modules
+
+### 2018-08-03
+
+Gry
+
+- Welcome to R/RStudio
+- Variable types
+
+### 2018-08-10
+
+Ida
+
+- Control structures
+- `if` statements
+- `for` statements
+
+### 2018-08-17
+
+Torbjørn
+
+- Subsetting data
+
+### 2018-08-24
+
+Richard
+
+- Functions
+
+### 2018-08-31
+
+- `data.table` package
+
+### 2018-09-07
+
+TBD
+
+### 2018-09-14
+
+TBD
+
+### 2018-09-21
+
+TBD
+
+### 2018-09-28
+
+TBD
+
+## August 2018
+
+Which statistical method should I use?
+
+## September 2018
+
+Introduction to Health Economics
+
+## October 2018
+
+Basic logistic regression
+
+## November 2018
+
+Basic linear regression
+
+## December 2018
+
+Outcome measures
+
+# Course Resources
+
+### Which statistical method should I use?
 
 [http://fhi-infectious.github.io/which_stats_method/](which_stats_method/index.html)
 
-## Longitudinal analyses
+### Longitudinal analysis
 
-[https://fhi-infectious.github.io/longitudinal_analysis/](which_stats_method//index.html)
+[https://fhi-infectious.github.io/longitudinal_analysis/](longitudinal_analysis/index.html)
 
-## A series of short R modules
+### A series of short R modules
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE, results='asis'}
 f <- list.files("/git/r","[0-9][0-9][_0-9a-zA-Z]*.Rmd")
