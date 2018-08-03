@@ -34,29 +34,3 @@ Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute
 [Longitudinal analysis](longitudinal_analysis/index.html)
 
 [A series of short R modules](r/index.html)
-
-# Planning
-
-## Gry
-
-- Welcome to R/RStudio
-- Variable types
-
-## Ida
-
-- Control structures
-- `if` statements
-- `for` statements
-
-## Torbjørn
-
-- Subsetting data
-
-## Richard
-
-- Functions
-
-## Richard
-
-- `data.table` package
-
