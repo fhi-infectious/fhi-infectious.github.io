@@ -7,53 +7,33 @@ editor_options:
   chunk_output_type: console
 ---
 
-# About us
+## About us
 
 Avdeling for infejskonsepidemiologi og modellering, Folkehelseinstituttet
 
 Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute of Public Health
 
-# Upcoming Courses
+## Upcoming Courses
 
-### 2018-08-14 0930-1500
+**Wednesday 14 August 2018, 0930-1500:** [Which statistical method should I use?](which_stats_method/index.html)
+
+**September 2018:** Basic logistic regression (Ida)
+
+**October 2018:** Basic linear regression (Bea)
+
+**November 2018:** Introduction to Health Economics (Torbjørn + Div Health Services)
+
+**December 2018:** Outcome measures (Torbjørn + someone)
+
+## Course Resources
 
 [Which statistical method should I use?](which_stats_method/index.html)
 
-Which statistical method should I use?
+[Best practices for file organization (in progress)](best_practices_files/index.html)
 
-### September 2018
+[Longitudinal analysis](longitudinal_analysis/index.html)
 
-Introduction to Health Economics
-
-### October 2018
-
-Basic logistic regression
-
-### November 2018
-
-Basic linear regression
-
-### December 2018
-
-Outcome measures
-
-# Course Resources
-
-### Which statistical method should I use?
-
-[http://fhi-infectious.github.io/which_stats_method/](which_stats_method/index.html)
-
-### Best practices for file organization (in progress)
-
-[http://fhi-infectious.github.io/best_practices_files/](best_practices_files/index.html)
-
-### Longitudinal analysis
-
-[https://fhi-infectious.github.io/longitudinal_analysis/](longitudinal_analysis/index.html)
-
-### A series of short R modules
-
-[https://fhi-infectious.github.io/r/](r/index.html)
+[A series of short R modules](r/index.html)
 
 # Planning
 
