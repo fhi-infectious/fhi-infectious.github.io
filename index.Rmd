@@ -15,74 +15,25 @@ Department of Infectious Disease Epidemiology and Modelling, Norwegian Institute
 
 # Upcoming Courses
 
-## Every Friday 1130am-1230pm
+### 2018-08-14 0930-1500
 
-A series of short R modules
-
-### 2018-08-03
-
-Gry
-
-- Welcome to R/RStudio
-- Variable types
-
-### 2018-08-10
-
-Ida
-
-- Control structures
-- `if` statements
-- `for` statements
-
-### 2018-08-17
-
-Torbjørn
-
-- Subsetting data
-
-### 2018-08-24
-
-Richard
-
-- Functions
-
-### 2018-08-31
-
-- `data.table` package
-
-### 2018-09-07
-
-TBD
-
-### 2018-09-14
-
-TBD
-
-### 2018-09-21
-
-TBD
-
-### 2018-09-28
-
-TBD
-
-## August 2018
+[Which statistical method should I use?](which_stats_method/index.html)
 
 Which statistical method should I use?
 
-## September 2018
+### September 2018
 
 Introduction to Health Economics
 
-## October 2018
+### October 2018
 
 Basic logistic regression
 
-## November 2018
+### November 2018
 
 Basic linear regression
 
-## December 2018
+### December 2018
 
 Outcome measures
 
@@ -92,16 +43,40 @@ Outcome measures
 
 [http://fhi-infectious.github.io/which_stats_method/](which_stats_method/index.html)
 
+### Best practices for file organization (in progress)
+
+[http://fhi-infectious.github.io/best_practices_files/](best_practices_files/index.html)
+
 ### Longitudinal analysis
 
 [https://fhi-infectious.github.io/longitudinal_analysis/](longitudinal_analysis/index.html)
 
 ### A series of short R modules
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=TRUE, results='asis'}
-f <- list.files("/git/r","[0-9][0-9][_0-9a-zA-Z]*.Rmd")
-h <- stringr::str_replace(f,"Rmd$","html")
-for(i in 1:length(h)){
-  cat(sprintf("%s. [%s](r/%s)\n\n",i,h[i],h[i]))
-}
-```
+[https://fhi-infectious.github.io/r/](r/index.html)
+
+# Planning
+
+## Gry
+
+- Welcome to R/RStudio
+- Variable types
+
+## Ida
+
+- Control structures
+- `if` statements
+- `for` statements
+
+## Torbjørn
+
+- Subsetting data
+
+## Richard
+
+- Functions
+
+## Richard
+
+- `data.table` package
+
