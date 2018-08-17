@@ -5,7 +5,8 @@ if [[ "$CI_PWD" != "" ]]; then
   git config user.email "xx@fhi.no"
   git config user.name "FHI Jenkins"
 
-  git commit -a -m "ok"
+  git add .
+  git commit -m "ok"
   git push origin master
 else
   echo "hello"
